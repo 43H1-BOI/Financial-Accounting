@@ -6,11 +6,11 @@ Fixed Cost Rs. 30000
 Variable Cost Rs. 60000
 — Find the P/V Ratio, Break even point sales and margin of safety at this level.
 Calculate the effect of
-(i) 20% increase in Selling price.
-(ii) 10% decrease in Selling price.
-(iii) 10% decrease in Fixed costs.
-(iv) 10% decrease in Variable costs
-(v) 10% increase in Sales volume.
+1. 20% increase in Selling price.
+2. 10% decrease in Selling price.
+3. 10% decrease in Fixed costs.
+4. 10% decrease in Variable costs
+5. 10% increase in Sales volume.
 
 ### Definitions and Formulae:
 
