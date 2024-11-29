@@ -1,6 +1,7 @@
 # Financial-Accounting
 
 <img src="q1.jpg" width="100%">
+
 ---
 
 ## **Trading and Profit & Loss Account**  
