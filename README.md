@@ -1,6 +1,6 @@
 # Financial-Accounting
 
-## **The following information is obtained from A Co. Ltd., in a certain year 
+## The following information is obtained from A Co. Ltd., in a certain year 
 Sales Rs. 100000
 Fixed Cost Rs. 30000
 Variable Cost Rs. 60000
@@ -10,7 +10,7 @@ Calculate the effect of
 (ii) 10% decrease in Selling price.
 (iii) 10% decrease in Fixed costs.
 (iv) 10% decrease in Variable costs
-(v) 10% increase in Sales volume.**
+(v) 10% increase in Sales volume.
 
 ### Definitions and Formulae:
 
