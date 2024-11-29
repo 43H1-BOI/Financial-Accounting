@@ -2,6 +2,59 @@
 
 <img src="q1.jpg" width="100%">
 
+
+
+---
+### **Trading Account for the Year Ended 31st March 2023**
+
+| **Dr.**                         | Amount (Rs.) | **Cr.**                  | Amount (Rs.) |
+|----------------------------------|--------------|--------------------------|--------------|
+| To Opening Stock                | 21,725       | By Sales                 | 126,177      |
+| To Purchases                    | 83,290       | Less: Sales Returns      | (7,422)      |
+| Less: Purchase Returns          | (3,172)      |                          |              |
+|                                 | 101,843      |                          | 118,755      |
+| To Wages (Adjusted)             | 10,800       | By Closing Stock         | 16,580       |
+| To Factory Fuel & Power         | 542          |                          |              |
+| To Lighting (Factory)           | 392          |                          |              |
+| To Manufacturing Expenses       | 2,680        |                          |              |
+| To Gross Profit c/d             | 19,078       |                          |              |
+| **Total**                       | **135,335**  | **Total**                | **135,335**  |
+
+---
+
+### **Profit & Loss Account for the Year Ended 31st March 2023**
+
+| **Dr.**                         | Amount (Rs.) | **Cr.**                  | Amount (Rs.) |
+|----------------------------------|--------------|--------------------------|--------------|
+| To Office Salaries              | 3,745        | By Gross Profit c/d      | 19,078       |
+| To Office Expenses              | 2,778        |                          |              |
+| To Rent & Taxes                 | 1,915        |                          |              |
+| To Insurance (Adjusted)         | 400          |                          |              |
+| To Travelling Expenses          | 925          |                          |              |
+| To Carriage on Sales            | 960          |                          |              |
+| To Discount                     | 422          |                          |              |
+| To Depreciation: Plant          | 2,750        |                          |              |
+| To Depreciation: Fixtures       | 172          |                          |              |
+| To Net Profit                   | 5,011        |                          |              |
+| **Total**                       | **19,078**   | **Total**                | **19,078**   |
+
+---
+
+### **Balance Sheet as of 31st March 2023**
+
+| **Liabilities**                 | Amount (Rs.) | **Assets**               | Amount (Rs.) |
+|----------------------------------|--------------|--------------------------|--------------|
+| Capital                         | 98,230       | Plant & Machinery (Net)  | 52,250       |
+| Add: Net Profit                 | 5,011        | Fixtures & Fittings (Net)| 1,548        |
+|                                 | 103,241      | Closing Stock            | 16,580       |
+| Less: Drawings                  | (6,820)      | Sundry Debtors           | 47,800       |
+|                                 | 96,421       | Prepaid Insurance        | 170          |
+| Sundry Creditors                | 22,680       | Cash at Bank             | 2,245        |
+| Bills Payable                   | 6,422        | Cash in Hand             | 68           |
+| Rent Outstanding                | 150          |                          |              |
+| **Total**                       | **125,673**  | **Total**                | **120,661**  |
+
+
 ---
 ### **Final Accounts of Vishal for the Year Ended 31st March, 2023**
 
