@@ -15,19 +15,19 @@ Calculate the effect of
 ### Definitions and Formulae:
 
 1. **Profit-Volume (P/V) Ratio**: It measures the contribution margin per unit of sales.  
-   \[
+   $\[
    \text{P/V Ratio} = \frac{\text{Sales} - \text{Variable Cost}}{\text{Sales}} \times 100
-   \]
+   \]$
 
 2. **Break-Even Point (BEP) Sales**: The sales level at which total revenue equals total cost (no profit, no loss).  
-   \[
+   $\[
    \text{BEP Sales} = \frac{\text{Fixed Cost}}{\text{P/V Ratio}}
-   \]
+   \]$
 
 3. **Margin of Safety (MOS)**: The difference between actual sales and break-even sales.  
-   \[
+   $\[
    \text{MOS} = \text{Sales} - \text{BEP Sales}
-   \]
+   \]$
 
 ---
 
@@ -41,23 +41,23 @@ Calculate the effect of
 ---
 
 #### 1. **P/V Ratio**:
-\[
+$\[
 \text{P/V Ratio} = \frac{S - V}{S} \times 100 = \frac{100,000 - 60,000}{100,000} \times 100 = 40\%
-\]
+\]$
 
 ---
 
 #### 2. **Break-Even Point (BEP) Sales**:
-\[
+$\[
 \text{BEP Sales} = \frac{F}{\text{P/V Ratio}} = \frac{30,000}{0.4} = Rs. 75,000
-\]
+\]$
 
 ---
 
 #### 3. **Margin of Safety (MOS)**:
-\[
+$\[
 \text{MOS} = S - \text{BEP Sales} = 100,000 - 75,000 = Rs. 25,000
-\]
+\]$
 
 ---
 
@@ -66,69 +66,69 @@ Calculate the effect of
 #### (i) **20% Increase in Selling Price**:
 - New Sales = \(S + 20\% S = 100,000 + 20,000 = Rs. 120,000\)  
 - Variable Costs remain the same (\(V = 60,000\)), so:  
-  \[
+  $\[
   \text{New P/V Ratio} = \frac{120,000 - 60,000}{120,000} \times 100 = 50\%
-  \]
-  \[
+  \]$
+  $\[
   \text{New BEP Sales} = \frac{30,000}{0.5} = Rs. 60,000
-  \]
-  \[
+  \]$
+  $\[
   \text{New MOS} = 120,000 - 60,000 = Rs. 60,000
-  \]
+  \]$
 
 ---
 
 #### (ii) **10% Decrease in Selling Price**:
 - New Sales = \(S - 10\% S = 100,000 - 10,000 = Rs. 90,000\)  
 - Variable Costs remain the same (\(V = 60,000\)), so:  
-  \[
+  $\[
   \text{New P/V Ratio} = \frac{90,000 - 60,000}{90,000} \times 100 = 33.33\%
-  \]
-  \[
+  \]$
+  $\[
   \text{New BEP Sales} = \frac{30,000}{0.3333} \approx Rs. 90,000
-  \]
-  \[
+  \]$
+  $\[
   \text{New MOS} = 90,000 - 90,000 = Rs. 0 \, (\text{No Safety Margin})
-  \]
+  \]$
 
 ---
 
 #### (iii) **10% Decrease in Fixed Costs**:
 - New Fixed Costs = \(F - 10\% F = 30,000 - 3,000 = Rs. 27,000\)  
 - P/V Ratio remains the same (\(40\%\)), so:  
-  \[
+  $\[
   \text{New BEP Sales} = \frac{27,000}{0.4} = Rs. 67,500
-  \]
-  \[
+  \]$
+  $\[
   \text{New MOS} = 100,000 - 67,500 = Rs. 32,500
-  \]
+  \]$
 
 ---
 
 #### (iv) **10% Decrease in Variable Costs**:
 - New Variable Costs = \(V - 10\% V = 60,000 - 6,000 = Rs. 54,000\)  
 - P/V Ratio changes:
-  \[
+  $\[
   \text{New P/V Ratio} = \frac{100,000 - 54,000}{100,000} \times 100 = 46\%
-  \]
-  \[
+  \]$
+  $\[
   \text{New BEP Sales} = \frac{30,000}{0.46} \approx Rs. 65,217
-  \]
-  \[
+  \]$
+  $\[
   \text{New MOS} = 100,000 - 65,217 = Rs. 34,783
-  \]
+  \]$
 
 ---
 
 #### (v) **10% Increase in Sales Volume**:
 - New Sales = \(S + 10\% S = 100,000 + 10,000 = Rs. 110,000\)  
 - Variable Costs increase proportionally (\(V + 10\% V = 60,000 + 6,000 = Rs. 66,000\)):  
-  \[
+  $\[
   \text{New Contribution} = 110,000 - 66,000 = Rs. 44,000
-  \]
-  \[
+  \]$
+  $\[
   \text{New MOS} = 110,000 - 75,000 = Rs. 35,000
-  \]
+  \]$
 
 ---
 
