@@ -202,16 +202,16 @@ $\[
 **Step 1: Calculate Margin of Safety (MOS)**  
 $\[
 \text{MOS} = \text{Margin of Safety Ratio} \times \text{Sales}.
-\]$$
-\[
+\]$
+$\[
 \text{MOS} = 0.3333 \times 990,000 = 330,000.
 \]$
 
 **Step 2: Calculate Profit**  
 $\[
 \text{Profit} = \text{MOS} \times \text{P/V Ratio}.
-\]$$
-\[
+\]$
+$\[
 \text{Profit} = 330,000 \times 0.30 = 99,000.
 \]$
 
@@ -227,10 +227,10 @@ $\[
 **Step 2: Contribution at 75% Sales**  
 $\[
 \text{Contribution} = \text{Sales} \times \text{P/V Ratio}.
-\]$$
-\[
+\]$
+$\[
 \text{Contribution} = 742,500 \times 0.30 = 222,750.
-\]
+\]$
 
 **Step 3: Profit at 75% Sales**  
 $\[
