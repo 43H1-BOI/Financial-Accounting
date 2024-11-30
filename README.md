@@ -153,31 +153,31 @@ $\[
 #### **Solution:**
 
 1. **Step 1: Determine P/V Ratio**  
-   \[
+   $\[
    \text{P/V Ratio} = 1 - \frac{\text{Variable Cost}}{\text{Sales}} = 1 - 0.70 = 0.30 \, \text{(30%)}.
-   \]
+   \]$
 
 2. **Step 2: Relationship Between BEP and Total Sales**  
    At BEP, sales are **60% of total sales**, so:  
-   \[
+   $\[
    \text{BEP Sales} = 0.60 \times \text{Total Sales}.
-   \]
+   \]$
 
 3. **Step 3: Break-Even Point Formula**  
    The formula for BEP is:  
-   \[
+   $\[
    \text{BEP Sales} = \frac{\text{Fixed Costs}}{\text{P/V Ratio}}.
-   \]
+   \]$
 
    Substituting BEP Sales:  
-   \[
+   $\[
    0.60 \times \text{Total Sales} = \frac{\text{Fixed Costs}}{0.30}.
-   \]
+   \]$
 
 4. **Step 4: Solve for Total Sales**  
-   \[
+   $\[
    \text{Total Sales} = \frac{\text{Fixed Costs}}{0.30 \times 0.60} = \frac{\text{Fixed Costs}}{0.18}.
-   \]
+   \]$
 
 ---
 
@@ -186,68 +186,68 @@ $\[
 #### **(i) Margin of Safety (MOS) = 330,000 and P/V Ratio = 30%**
 
 **Formula for Profit**:  
-\[
+$\[
 \text{Profit} = \text{Margin of Safety} \times \text{P/V Ratio}.
-\]
+\]$
 
 Substitute the given values:  
-\[
+$\[
 \text{Profit} = 330,000 \times 0.30 = 99,000.
-\]
+\]$
 
 ---
 
 #### **(ii) P/V Ratio = 30%, Margin of Safety Ratio = 33.33%, Sales = 990,000, Fixed Costs = 180,000**
 
 **Step 1: Calculate Margin of Safety (MOS)**  
-\[
+$\[
 \text{MOS} = \text{Margin of Safety Ratio} \times \text{Sales}.
-\]
+\]$$
 \[
 \text{MOS} = 0.3333 \times 990,000 = 330,000.
-\]
+\]$
 
 **Step 2: Calculate Profit**  
-\[
+$\[
 \text{Profit} = \text{MOS} \times \text{P/V Ratio}.
-\]
+\]$$
 \[
 \text{Profit} = 330,000 \times 0.30 = 99,000.
-\]
+\]$
 
 ---
 
 #### **(iii) Calculate Profit at 75% of Total Sales**
 
 **Step 1: Sales at 75%**  
-\[
+$\[
 \text{Sales at 75%} = 0.75 \times 990,000 = 742,500.
-\]
+\]$
 
 **Step 2: Contribution at 75% Sales**  
-\[
+$\[
 \text{Contribution} = \text{Sales} \times \text{P/V Ratio}.
-\]
+\]$$
 \[
 \text{Contribution} = 742,500 \times 0.30 = 222,750.
 \]
 
 **Step 3: Profit at 75% Sales**  
-\[
+$\[
 \text{Profit} = \text{Contribution} - \text{Fixed Costs}.
-\]
+\]$$
 \[
 \text{Profit} = 222,750 - 180,000 = 42,750.
-\]
+\]$
 
 ---
 
 ### **Final Answers:**
 
 1. **Q1 (Total Sales)**:  
-   \[
+   $\[
    \text{Total Sales} = \frac{\text{Fixed Costs}}{0.18} \, \text{(value depends on Fixed Costs provided)}.
-   \]
+   \]$
 
 2. **Q2 (Profit Calculations)**:  
    - (i) **Profit (MOS = 330,000)**: Rs. **99,000**.  
